@@ -1,18 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\C# - Softuni\\Programing Fundamentals\\BasicSyntax,ConditionalStatementsAndLoops-MoreExercise\\",
+  "WorkspaceRootPath": "E:\\C# - Softuni\\SoftUni-Fundamentals-CSharp-September-2024\\BasicSyntax,ConditionalStatementsAndLoops-MoreExercise\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E0455F16-D6B3-4D3D-B121-B49930F26142}|03. Gaming Store\\03. Gaming Store.csproj|e:\\c# - softuni\\programing fundamentals\\basicsyntax,conditionalstatementsandloops-moreexercise\\03. gaming store\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E0455F16-D6B3-4D3D-B121-B49930F26142}|03. Gaming Store\\03. Gaming Store.csproj|e:\\c# - softuni\\softuni-fundamentals-csharp-september-2024\\basicsyntax,conditionalstatementsandloops-moreexercise\\03. gaming store\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E0455F16-D6B3-4D3D-B121-B49930F26142}|03. Gaming Store\\03. Gaming Store.csproj|solutionrelative:03. gaming store\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9CEA14C2-0F12-41AF-8F9E-1E224D66C4BE}|1.EnglishNameOfTheLastDigit\\1.EnglishNameOfTheLastDigit.csproj|e:\\c# - softuni\\programing fundamentals\\basicsyntax,conditionalstatementsandloops-moreexercise\\1.englishnameofthelastdigit\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9CEA14C2-0F12-41AF-8F9E-1E224D66C4BE}|1.EnglishNameOfTheLastDigit\\1.EnglishNameOfTheLastDigit.csproj|solutionrelative:1.englishnameofthelastdigit\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E070E347-5CF4-40D1-BC1C-2F51556A06E3}|01.SortNumbers\\01.SortNumbers.csproj|e:\\c# - softuni\\softuni-fundamentals-csharp-september-2024\\basicsyntax,conditionalstatementsandloops-moreexercise\\01.sortnumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E070E347-5CF4-40D1-BC1C-2F51556A06E3}|01.SortNumbers\\01.SortNumbers.csproj|solutionrelative:01.sortnumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E070E347-5CF4-40D1-BC1C-2F51556A06E3}|01.SortNumbers\\01.SortNumbers.csproj|e:\\c# - softuni\\programing fundamentals\\basicsyntax,conditionalstatementsandloops-moreexercise\\01.sortnumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E070E347-5CF4-40D1-BC1C-2F51556A06E3}|01.SortNumbers\\01.SortNumbers.csproj|solutionrelative:01.sortnumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9CEA14C2-0F12-41AF-8F9E-1E224D66C4BE}|1.EnglishNameOfTheLastDigit\\02.EnglishNameOfTheLastDigit.csproj|e:\\c# - softuni\\softuni-fundamentals-csharp-september-2024\\basicsyntax,conditionalstatementsandloops-moreexercise\\1.englishnameofthelastdigit\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CEA14C2-0F12-41AF-8F9E-1E224D66C4BE}|1.EnglishNameOfTheLastDigit\\02.EnglishNameOfTheLastDigit.csproj|solutionrelative:1.englishnameofthelastdigit\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,50 +22,48 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "E:\\C# - Softuni\\Programing Fundamentals\\BasicSyntax,ConditionalStatementsAndLoops-MoreExercise\\03. Gaming Store\\Program.cs",
-              "RelativeDocumentMoniker": "03. Gaming Store\\Program.cs",
-              "ToolTip": "E:\\C# - Softuni\\Programing Fundamentals\\BasicSyntax,ConditionalStatementsAndLoops-MoreExercise\\03. Gaming Store\\Program.cs",
-              "RelativeToolTip": "03. Gaming Store\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-12T08:37:32.268Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "E:\\C# - Softuni\\Programing Fundamentals\\BasicSyntax,ConditionalStatementsAndLoops-MoreExercise\\1.EnglishNameOfTheLastDigit\\Program.cs",
-              "RelativeDocumentMoniker": "1.EnglishNameOfTheLastDigit\\Program.cs",
-              "ToolTip": "E:\\C# - Softuni\\Programing Fundamentals\\BasicSyntax,ConditionalStatementsAndLoops-MoreExercise\\1.EnglishNameOfTheLastDigit\\Program.cs",
-              "RelativeToolTip": "1.EnglishNameOfTheLastDigit\\Program.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAUwCMAAAABAAAA",
+              "DocumentMoniker": "E:\\C# - Softuni\\SoftUni-Fundamentals-CSharp-September-2024\\BasicSyntax,ConditionalStatementsAndLoops-MoreExercise\\03. Gaming Store\\Program.cs",
+              "RelativeDocumentMoniker": "03. Gaming Store\\Program.cs",
+              "ToolTip": "E:\\C# - Softuni\\SoftUni-Fundamentals-CSharp-September-2024\\BasicSyntax,ConditionalStatementsAndLoops-MoreExercise\\03. Gaming Store\\Program.cs",
+              "RelativeToolTip": "03. Gaming Store\\Program.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAmwD8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-12T08:29:26.919Z",
+              "WhenOpened": "2024-09-12T08:37:32.268Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "E:\\C# - Softuni\\Programing Fundamentals\\BasicSyntax,ConditionalStatementsAndLoops-MoreExercise\\01.SortNumbers\\Program.cs",
+              "DocumentMoniker": "E:\\C# - Softuni\\SoftUni-Fundamentals-CSharp-September-2024\\BasicSyntax,ConditionalStatementsAndLoops-MoreExercise\\1.EnglishNameOfTheLastDigit\\Program.cs",
+              "RelativeDocumentMoniker": "1.EnglishNameOfTheLastDigit\\Program.cs",
+              "ToolTip": "E:\\C# - Softuni\\SoftUni-Fundamentals-CSharp-September-2024\\BasicSyntax,ConditionalStatementsAndLoops-MoreExercise\\1.EnglishNameOfTheLastDigit\\Program.cs",
+              "RelativeToolTip": "1.EnglishNameOfTheLastDigit\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAUwCMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T08:29:26.919Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\C# - Softuni\\SoftUni-Fundamentals-CSharp-September-2024\\BasicSyntax,ConditionalStatementsAndLoops-MoreExercise\\01.SortNumbers\\Program.cs",
               "RelativeDocumentMoniker": "01.SortNumbers\\Program.cs",
-              "ToolTip": "E:\\C# - Softuni\\Programing Fundamentals\\BasicSyntax,ConditionalStatementsAndLoops-MoreExercise\\01.SortNumbers\\Program.cs",
+              "ToolTip": "E:\\C# - Softuni\\SoftUni-Fundamentals-CSharp-September-2024\\BasicSyntax,ConditionalStatementsAndLoops-MoreExercise\\01.SortNumbers\\Program.cs",
               "RelativeToolTip": "01.SortNumbers\\Program.cs",
               "ViewState": "AQIAAAwAAAAAAAAAAAAAABoAAAAPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-12T07:51:36.71Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-12T07:51:36.71Z"
             }
           ]
         }

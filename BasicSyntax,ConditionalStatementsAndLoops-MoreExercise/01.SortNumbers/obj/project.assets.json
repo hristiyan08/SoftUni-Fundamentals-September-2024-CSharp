@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\C# - Softuni\\Programing Fundamentals\\BasicSyntax,ConditionalStatementsAndLoops-MoreExercise\\01.SortNumbers\\01.SortNumbers.csproj",
+      "projectUniqueName": "E:\\C# - Softuni\\Programming Fundamentals\\BasicSyntax,ConditionalStatementsAndLoops-MoreExercise\\01.SortNumbers\\01.SortNumbers.csproj",
       "projectName": "01.SortNumbers",
-      "projectPath": "E:\\C# - Softuni\\Programing Fundamentals\\BasicSyntax,ConditionalStatementsAndLoops-MoreExercise\\01.SortNumbers\\01.SortNumbers.csproj",
+      "projectPath": "E:\\C# - Softuni\\Programming Fundamentals\\BasicSyntax,ConditionalStatementsAndLoops-MoreExercise\\01.SortNumbers\\01.SortNumbers.csproj",
       "packagesPath": "C:\\Users\\Hristiyan Yordanov\\.nuget\\packages\\",
-      "outputPath": "E:\\C# - Softuni\\Programing Fundamentals\\BasicSyntax,ConditionalStatementsAndLoops-MoreExercise\\01.SortNumbers\\obj\\",
+      "outputPath": "E:\\C# - Softuni\\Programming Fundamentals\\BasicSyntax,ConditionalStatementsAndLoops-MoreExercise\\01.SortNumbers\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Hristiyan Yordanov\\AppData\\Roaming\\NuGet\\NuGet.Config",

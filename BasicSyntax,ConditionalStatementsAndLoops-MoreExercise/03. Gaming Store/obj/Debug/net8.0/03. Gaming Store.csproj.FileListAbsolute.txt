@@ -1,0 +1,15 @@
+E:\C# - Softuni\Programing Fundamentals\SoftUni-Fundamentals-CSharp-September-2024\BasicSyntax,ConditionalStatementsAndLoops-MoreExercise\03. Gaming Store\obj\Debug\net8.0\03. Gaming Store.GeneratedMSBuildEditorConfig.editorconfig
+E:\C# - Softuni\Programing Fundamentals\SoftUni-Fundamentals-CSharp-September-2024\BasicSyntax,ConditionalStatementsAndLoops-MoreExercise\03. Gaming Store\obj\Debug\net8.0\03. Gaming Store.AssemblyInfoInputs.cache
+E:\C# - Softuni\Programing Fundamentals\SoftUni-Fundamentals-CSharp-September-2024\BasicSyntax,ConditionalStatementsAndLoops-MoreExercise\03. Gaming Store\obj\Debug\net8.0\03. Gaming Store.AssemblyInfo.cs
+E:\C# - Softuni\Programing Fundamentals\SoftUni-Fundamentals-CSharp-September-2024\BasicSyntax,ConditionalStatementsAndLoops-MoreExercise\03. Gaming Store\obj\Debug\net8.0\03. Gaming Store.csproj.CoreCompileInputs.cache
+E:\C# - Softuni\Programing Fundamentals\SoftUni-Fundamentals-CSharp-September-2024\BasicSyntax,ConditionalStatementsAndLoops-MoreExercise\03. Gaming Store\obj\Debug\net8.0\03. Gaming Store.sourcelink.json
+E:\C# - Softuni\Programing Fundamentals\SoftUni-Fundamentals-CSharp-September-2024\BasicSyntax,ConditionalStatementsAndLoops-MoreExercise\03. Gaming Store\bin\Debug\net8.0\03. Gaming Store.exe
+E:\C# - Softuni\Programing Fundamentals\SoftUni-Fundamentals-CSharp-September-2024\BasicSyntax,ConditionalStatementsAndLoops-MoreExercise\03. Gaming Store\bin\Debug\net8.0\03. Gaming Store.deps.json
+E:\C# - Softuni\Programing Fundamentals\SoftUni-Fundamentals-CSharp-September-2024\BasicSyntax,ConditionalStatementsAndLoops-MoreExercise\03. Gaming Store\bin\Debug\net8.0\03. Gaming Store.runtimeconfig.json
+E:\C# - Softuni\Programing Fundamentals\SoftUni-Fundamentals-CSharp-September-2024\BasicSyntax,ConditionalStatementsAndLoops-MoreExercise\03. Gaming Store\bin\Debug\net8.0\03. Gaming Store.dll
+E:\C# - Softuni\Programing Fundamentals\SoftUni-Fundamentals-CSharp-September-2024\BasicSyntax,ConditionalStatementsAndLoops-MoreExercise\03. Gaming Store\bin\Debug\net8.0\03. Gaming Store.pdb
+E:\C# - Softuni\Programing Fundamentals\SoftUni-Fundamentals-CSharp-September-2024\BasicSyntax,ConditionalStatementsAndLoops-MoreExercise\03. Gaming Store\obj\Debug\net8.0\03. Gaming Store.dll
+E:\C# - Softuni\Programing Fundamentals\SoftUni-Fundamentals-CSharp-September-2024\BasicSyntax,ConditionalStatementsAndLoops-MoreExercise\03. Gaming Store\obj\Debug\net8.0\refint\03. Gaming Store.dll
+E:\C# - Softuni\Programing Fundamentals\SoftUni-Fundamentals-CSharp-September-2024\BasicSyntax,ConditionalStatementsAndLoops-MoreExercise\03. Gaming Store\obj\Debug\net8.0\03. Gaming Store.pdb
+E:\C# - Softuni\Programing Fundamentals\SoftUni-Fundamentals-CSharp-September-2024\BasicSyntax,ConditionalStatementsAndLoops-MoreExercise\03. Gaming Store\obj\Debug\net8.0\03. Gaming Store.genruntimeconfig.cache
+E:\C# - Softuni\Programing Fundamentals\SoftUni-Fundamentals-CSharp-September-2024\BasicSyntax,ConditionalStatementsAndLoops-MoreExercise\03. Gaming Store\obj\Debug\net8.0\ref\03. Gaming Store.dll

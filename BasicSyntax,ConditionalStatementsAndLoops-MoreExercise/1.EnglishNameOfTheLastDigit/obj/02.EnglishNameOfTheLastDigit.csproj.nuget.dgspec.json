@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\C# - Softuni\\Programing Fundamentals\\BasicSyntax,ConditionalStatementsAndLoops-MoreExercise\\1.EnglishNameOfTheLastDigit\\02.EnglishNameOfTheLastDigit.csproj": {}
+    "E:\\C# - Softuni\\Programming Fundamentals\\BasicSyntax,ConditionalStatementsAndLoops-MoreExercise\\1.EnglishNameOfTheLastDigit\\02.EnglishNameOfTheLastDigit.csproj": {}
   },
   "projects": {
-    "E:\\C# - Softuni\\Programing Fundamentals\\BasicSyntax,ConditionalStatementsAndLoops-MoreExercise\\1.EnglishNameOfTheLastDigit\\02.EnglishNameOfTheLastDigit.csproj": {
+    "E:\\C# - Softuni\\Programming Fundamentals\\BasicSyntax,ConditionalStatementsAndLoops-MoreExercise\\1.EnglishNameOfTheLastDigit\\02.EnglishNameOfTheLastDigit.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\C# - Softuni\\Programing Fundamentals\\BasicSyntax,ConditionalStatementsAndLoops-MoreExercise\\1.EnglishNameOfTheLastDigit\\02.EnglishNameOfTheLastDigit.csproj",
+        "projectUniqueName": "E:\\C# - Softuni\\Programming Fundamentals\\BasicSyntax,ConditionalStatementsAndLoops-MoreExercise\\1.EnglishNameOfTheLastDigit\\02.EnglishNameOfTheLastDigit.csproj",
         "projectName": "02.EnglishNameOfTheLastDigit",
-        "projectPath": "E:\\C# - Softuni\\Programing Fundamentals\\BasicSyntax,ConditionalStatementsAndLoops-MoreExercise\\1.EnglishNameOfTheLastDigit\\02.EnglishNameOfTheLastDigit.csproj",
+        "projectPath": "E:\\C# - Softuni\\Programming Fundamentals\\BasicSyntax,ConditionalStatementsAndLoops-MoreExercise\\1.EnglishNameOfTheLastDigit\\02.EnglishNameOfTheLastDigit.csproj",
         "packagesPath": "C:\\Users\\Hristiyan Yordanov\\.nuget\\packages\\",
-        "outputPath": "E:\\C# - Softuni\\Programing Fundamentals\\BasicSyntax,ConditionalStatementsAndLoops-MoreExercise\\1.EnglishNameOfTheLastDigit\\obj\\",
+        "outputPath": "E:\\C# - Softuni\\Programming Fundamentals\\BasicSyntax,ConditionalStatementsAndLoops-MoreExercise\\1.EnglishNameOfTheLastDigit\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Hristiyan Yordanov\\AppData\\Roaming\\NuGet\\NuGet.Config",

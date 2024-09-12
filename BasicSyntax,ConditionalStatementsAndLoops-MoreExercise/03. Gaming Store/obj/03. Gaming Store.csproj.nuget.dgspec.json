@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\C# - Softuni\\Programing Fundamentals\\BasicSyntax,ConditionalStatementsAndLoops-MoreExercise\\03. Gaming Store\\03. Gaming Store.csproj": {}
+    "E:\\C# - Softuni\\Programming Fundamentals\\BasicSyntax,ConditionalStatementsAndLoops-MoreExercise\\03. Gaming Store\\03. Gaming Store.csproj": {}
   },
   "projects": {
-    "E:\\C# - Softuni\\Programing Fundamentals\\BasicSyntax,ConditionalStatementsAndLoops-MoreExercise\\03. Gaming Store\\03. Gaming Store.csproj": {
+    "E:\\C# - Softuni\\Programming Fundamentals\\BasicSyntax,ConditionalStatementsAndLoops-MoreExercise\\03. Gaming Store\\03. Gaming Store.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\C# - Softuni\\Programing Fundamentals\\BasicSyntax,ConditionalStatementsAndLoops-MoreExercise\\03. Gaming Store\\03. Gaming Store.csproj",
+        "projectUniqueName": "E:\\C# - Softuni\\Programming Fundamentals\\BasicSyntax,ConditionalStatementsAndLoops-MoreExercise\\03. Gaming Store\\03. Gaming Store.csproj",
         "projectName": "03. Gaming Store",
-        "projectPath": "E:\\C# - Softuni\\Programing Fundamentals\\BasicSyntax,ConditionalStatementsAndLoops-MoreExercise\\03. Gaming Store\\03. Gaming Store.csproj",
+        "projectPath": "E:\\C# - Softuni\\Programming Fundamentals\\BasicSyntax,ConditionalStatementsAndLoops-MoreExercise\\03. Gaming Store\\03. Gaming Store.csproj",
         "packagesPath": "C:\\Users\\Hristiyan Yordanov\\.nuget\\packages\\",
-        "outputPath": "E:\\C# - Softuni\\Programing Fundamentals\\BasicSyntax,ConditionalStatementsAndLoops-MoreExercise\\03. Gaming Store\\obj\\",
+        "outputPath": "E:\\C# - Softuni\\Programming Fundamentals\\BasicSyntax,ConditionalStatementsAndLoops-MoreExercise\\03. Gaming Store\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Hristiyan Yordanov\\AppData\\Roaming\\NuGet\\NuGet.Config",
