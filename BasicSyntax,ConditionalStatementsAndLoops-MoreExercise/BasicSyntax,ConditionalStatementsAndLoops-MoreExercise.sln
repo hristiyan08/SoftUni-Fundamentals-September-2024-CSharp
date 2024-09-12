@@ -3,11 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.10.35027.167
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.SortNumbers", "01.SortNumbers\01.SortNumbers.csproj", "{E070E347-5CF4-40D1-BC1C-2F51556A06E3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01.SortNumbers", "01.SortNumbers\01.SortNumbers.csproj", "{E070E347-5CF4-40D1-BC1C-2F51556A06E3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.EnglishNameOfTheLastDigit", "1.EnglishNameOfTheLastDigit\02.EnglishNameOfTheLastDigit.csproj", "{9CEA14C2-0F12-41AF-8F9E-1E224D66C4BE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02.EnglishNameOfTheLastDigit", "1.EnglishNameOfTheLastDigit\02.EnglishNameOfTheLastDigit.csproj", "{9CEA14C2-0F12-41AF-8F9E-1E224D66C4BE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Gaming Store", "03. Gaming Store\03. Gaming Store.csproj", "{E0455F16-D6B3-4D3D-B121-B49930F26142}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03. Gaming Store", "03. Gaming Store\03. Gaming Store.csproj", "{E0455F16-D6B3-4D3D-B121-B49930F26142}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.ReverseString", "04.ReverseString\04.ReverseString.csproj", "{7931DC87-EC50-4076-8A24-524F5C512A7F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.Messages", "05.Messages\05.Messages.csproj", "{BE516CCB-840D-4E90-937B-57F0D149A0EA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +31,14 @@ Global
 		{E0455F16-D6B3-4D3D-B121-B49930F26142}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E0455F16-D6B3-4D3D-B121-B49930F26142}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E0455F16-D6B3-4D3D-B121-B49930F26142}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7931DC87-EC50-4076-8A24-524F5C512A7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7931DC87-EC50-4076-8A24-524F5C512A7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7931DC87-EC50-4076-8A24-524F5C512A7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7931DC87-EC50-4076-8A24-524F5C512A7F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE516CCB-840D-4E90-937B-57F0D149A0EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE516CCB-840D-4E90-937B-57F0D149A0EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE516CCB-840D-4E90-937B-57F0D149A0EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE516CCB-840D-4E90-937B-57F0D149A0EA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
